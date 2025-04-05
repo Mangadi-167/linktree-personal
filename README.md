@@ -26,7 +26,7 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://mangadi-167.github.io/linktree-personal/)
+- [Demo](https://mangadi-167.github.io/portofolio-mangadi/)
 
 ## 🚀 Getting started
 
@@ -56,4 +56,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with ❤️ by Mangadi :wave: [Get in touch](https://mangadi-167.github.io/linktree-personal/)
+Made with ❤️ by Mangadi :wave: [Get in touch](https://mangadi-167.github.io/portofolio-mangadi/)
