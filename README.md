@@ -56,4 +56,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with ❤️ by John Emerson :wave: [Get in touch](https://mangadi-167.github.io/linktree-personal/)
+Made with ❤️ by Mangadi :wave: [Get in touch](https://mangadi-167.github.io/linktree-personal/)
